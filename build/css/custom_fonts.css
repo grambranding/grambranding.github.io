@@ -1,0 +1,14 @@
+
+@font-face {
+	font-family: 'custom_10000';
+	font-style:  normal;
+	font-weight: 400;
+	src: url("../../fonts/5b518d9ea4622818d1e11311_n4.woff") format('woff')
+}
+
+@font-face {
+	font-family: 'custom_11003';
+	font-style:  normal;
+	font-weight: 400;
+	src: url("../../fonts/5bab8538c0f2a043a7ed4970_n4.woff") format('woff')
+}

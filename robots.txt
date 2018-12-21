@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://gram-branding.com/sitemap.xml
